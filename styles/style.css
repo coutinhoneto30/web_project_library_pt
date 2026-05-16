@@ -25,7 +25,7 @@
 
 .nav__logo {
   height: 80px;
-  width: 58x;
+  width: 58px;
 }
 
 .nav__links {
@@ -119,7 +119,7 @@
   max-width: 760px;
   margin-top: 68px;
   margin-bottom: 0;
-  gap: 40px 40px;
+  gap: 40px;
   list-style-type: none;
   padding: 0;
   margin: 68px auto 0;
